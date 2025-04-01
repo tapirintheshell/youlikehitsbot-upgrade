@@ -3,7 +3,7 @@
 
 - **Version: 0.5.1t** 
 
-This project is a modified version of the original [YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot) by **gekkedev**. It has been tailored exclusively for handling YouTube videos in the YouLikeHits workflow.
+This project is a modified version of the original <a href="https://github.com/gekkedev/youlikehitsbot" target="_blank">YouLikeHits Bot</a> by **gekkedev**. It has been tailored exclusively for handling YouTube videos in the YouLikeHits workflow.
 
 ## Features
 
@@ -23,21 +23,22 @@ This project is a modified version of the original [YouLikeHits Bot](https://git
   Each newly opened YouTube window operates independently, with its own countdown time (as received from YouLikeHits).
 
 ## Additional Requirement:
-  For proper functioning, this project requires the [Trusted Types Helper](https://greasyfork.org/en/scripts/433051-trusted-types-helper) script (an official Tampermonkey script).
+  For proper functioning, this project requires the <a href="https://greasyfork.org/en/scripts/433051-trusted-types-helper" target="_blank">Trusted Types Helper</a> script (an official Tampermonkey script).
 
 ## Acknowledgements
 
-A huge thank you to **gekkedev** for creating the original [YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot), which served as the basis for this project. Your work has been invaluable in developing this tailored solution for YouLikeHits content management.
+A huge thank you to **gekkedev** for creating the original <a href="https://github.com/gekkedev/youlikehitsbot" target="_blank">YouLikeHits Bot</a>, which served as the basis for this project. Your work has been invaluable in developing this tailored solution for YouLikeHits content management.
 
 
 ___
+
 
 #### (Latin)
 # YouLikeHits Bot Renovatio
 
 **Versio: 0.5.1t**  
 
-Hoc opus est *versio modificata* automati originalis **[YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot)**, ab **gekkedev** creati. Ad usum *exclusivum* spectaculorum YouTube in via operis YouLikeHits accommodatum est.  
+Hoc opus est *versio modificata* automati originalis <a href="https://github.com/gekkedev/youlikehitsbot" target="_blank">YouLikeHits Bot</a>, ab **gekkedev** creati. Ad usum *exclusivum* spectaculorum YouTube in via operis YouLikeHits accommodatum est.  
 
 ## **Facultates**  
 
@@ -57,12 +58,12 @@ Hoc opus est *versio modificata* automati originalis **[YouLikeHits Bot](https:/
 5. **Operatio Independens**  
    Quaelibet fenestra YouTube **suo tempore numerati** (ex YouLikeHits accepto) regitur, sine perturbatione aliarum.  
 
----
+
 
 ## **Requiritur**  
-   Ut hoc automaton recte operetur, necesse est habere **[Trusted Types Helper](https://greasyfork.org/en/scripts/433051-trusted-types-helper)** (scriptum officiale Tampermonkey).  
+   Ut hoc automaton recte operetur, necesse est habere <a href="https://greasyfork.org/en/scripts/433051-trusted-types-helper" target="_blank">Trusted Types Helper</a> (scriptum officiale Tampermonkey).  
 
----
+
 
 ## **Grates**  
-   **Grates maximas** agimus **gekkedev** pro creatione automatis originalis **[YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot)**, quod fundamentum huius operis fuit. Opus tuum *incomparabile* ad hanc solutionem pro administratione YouLikeHits perficiendam fuit.  
+   **Grates maximas** agimus **gekkedev** pro creatione automatis originalis <a href="https://github.com/gekkedev/youlikehitsbot" target="_blank">YouLikeHits Bot</a>, quod fundamentum huius operis fuit. Opus tuum *incomparabile* ad hanc solutionem pro administratione YouLikeHits perficiendam fuit.  
