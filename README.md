@@ -1,3 +1,4 @@
+#### (English)
 # YouLikeHits Bot Upgrade
 
 - **Version: 0.5.1t** 
@@ -27,3 +28,41 @@ This project is a modified version of the original [YouLikeHits Bot](https://git
 ## Acknowledgements
 
 A huge thank you to **gekkedev** for creating the original [YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot), which served as the basis for this project. Your work has been invaluable in developing this tailored solution for YouLikeHits content management.
+
+
+___
+
+#### (Latin)
+# YouLikeHits Bot Renovatio
+
+**Versio: 0.5.1t**  
+
+Hoc opus est *versio modificata* automati originalis **[YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot)**, ab **gekkedev** creati. Ad usum *exclusivum* spectaculorum YouTube in via operis YouLikeHits accommodatum est.  
+
+## **Facultates**  
+
+1. **Mutationes Speciales ad YouTube**  
+   Omnes emendationes ad spectacula YouTube diriguntur.  
+
+2. **Transitus Automaticus Spectaculorum**  
+   Post finem temporis numerati, automaton ad proximum spectaculum sine interventu hominis transit.  
+
+3. **Administratio Fenestrarum Novarum**  
+   - Spectacula in *fenestra nova* aperiuntur.  
+   - Tempus numerati a YouLikeHits acceptum **ad fenestram YouTube transfertur**, cum additis **X secundis** pro cautione (hoc vocatur *tempus claudendi fenestram*).  
+
+4. **Mechanismus Clausurae Automaticae**  
+   Finito tempore numerati, **fenestra YouTube clauditur**, ne fenestrae supervacuae maneant.  
+
+5. **Operatio Independens**  
+   Quaelibet fenestra YouTube **suo tempore numerati** (ex YouLikeHits accepto) regitur, sine perturbatione aliarum.  
+
+---
+
+## **Requiritur**  
+   Ut hoc automaton recte operetur, necesse est habere **[Trusted Types Helper](https://greasyfork.org/en/scripts/433051-trusted-types-helper)** (scriptum officiale Tampermonkey).  
+
+---
+
+## **Grates**  
+   **Grates maximas** agimus **gekkedev** pro creatione automatis originalis **[YouLikeHits Bot](https://github.com/gekkedev/youlikehitsbot)**, quod fundamentum huius operis fuit. Opus tuum *incomparabile* ad hanc solutionem pro administratione YouLikeHits perficiendam fuit.  
